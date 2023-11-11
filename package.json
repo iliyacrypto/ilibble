@@ -11,17 +11,20 @@
   "dependencies": {
     "@headlessui/react": "^1.7.17",
     "@types/jsonwebtoken": "^9.0.5",
+    "axios": "^1.6.1",
     "cloudinary": "^1.41.0",
+    "find-unused-exports": "^5.0.0",
     "graphql-request": "^6.1.0",
     "jsonwebtoken": "^9.0.2",
     "next": "14.0.2",
     "next-auth": "^4.24.5",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "supports-color": "^9.4.0"
   },
   "devDependencies": {
     "@grafbase/sdk": "^0.9.1",
-    "@types/node": "^20",
+    "@types/node": "^20.9.0",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
